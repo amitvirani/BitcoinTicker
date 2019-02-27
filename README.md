@@ -1,4 +1,4 @@
 
 #  Bitcoin Ticker
 
-<img src="https://github.com/amitvirani/Xylophone-iOS11-master/blob/master/Xylophone.png" width="400">
+<img src="https://github.com/amitvirani/BitcoinTicker-iOS12-master/blob/master/BitCoinApp.png" width="400">
